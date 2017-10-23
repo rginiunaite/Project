@@ -1,0 +1,3 @@
+/home/giniunaite/Aboria_codes/CMakeFiles/rebuild_cache.dir
+/home/giniunaite/Aboria_codes/CMakeFiles/edit_cache.dir
+/home/giniunaite/Aboria_codes/CMakeFiles/fixed_gradient.dir
